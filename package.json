@@ -1,0 +1,12 @@
+{
+  "name": "muzzlerun-tracker",
+  "version": "1.0.0",
+  "description": "🐕 Look up Muzzle Run kennel stats by Polygon wallet address — no API key needed",
+  "main": "index.js",
+  "bin": { "muzzlerun": "./index.js" },
+  "scripts": { "start": "node index.js" },
+  "keywords": ["muzzle-run","greyhound","nft","polygon","web3","racing","cli"],
+  "author": "Pi-E <pie.dashecorp@proton.me>",
+  "license": "MIT",
+  "dependencies": {}
+}
